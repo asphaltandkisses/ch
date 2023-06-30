@@ -91,6 +91,10 @@ background-color:rgba(229, 235, 243, 0.9);
   background: url("vf.JPG") no-repeat
     center center/contain;
 }
+.slide:nth-child(7) {
+  background: url("una.JPG") no-repeat
+    center center/contain;
+}
 
 .buttons button#prev {
   position: absolute;
